@@ -1,11 +1,11 @@
-About r-downscaler.keras
-========================
+About r-downscaler.keras-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-downscaler.keras-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/SantanderMetGroup/climate4R
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-downscaler.keras-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for climate downscaling with deep neural networks models building on keras, as part of the climate4R bundle (<http://meteo.unican.es/climate4R>).
 
